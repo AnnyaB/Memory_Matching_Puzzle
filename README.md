@@ -1,18 +1,8 @@
 Memory Matching Game
 A Python-based memory matching game where players flip cards to find pairs. This project is compatible across different operating systems. Follow the instructions below to set up and run the game on your device.
 
-Prerequisites
-Python: Make sure Python is installed. You can download it from python.org.
-Setup Instructions
-1. Clone the Repository
-Open a terminal or command prompt.
-Clone the GitHub repository by running
-git clone https://github.com/AnnyaB/Memory-Puzzzle.git
-Navigate to the project directory:
-cd Memory-Matching-Game
 
-
-2. Install Virtual Environment 
+Install Virtual Environment 
 To keep dependencies isolated, use a virtual environment for the project.
 
 --Windows
@@ -25,11 +15,12 @@ venv\Scripts\activate
 python3 -m venv venv
 source venv/bin/activate
 
-3. Install Dependencies
+Install Dependencies
 Install the required dependencies from requirements.txt:
 
 pip install -r requirements.txt
-4. Run the Game
+
+Run the Game
 Launch the game by running:
 
 --Windows
