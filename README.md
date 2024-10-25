@@ -1,4 +1,5 @@
-Memory Matching Game
+Memory Matching Puzzle
+
 A Python-based memory matching game where players flip cards to find pairs. This project is compatible across different operating systems. Follow the instructions below to set up and run the game on your device.
 
 
