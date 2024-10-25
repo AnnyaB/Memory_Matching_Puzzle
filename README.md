@@ -7,7 +7,7 @@ Setup Instructions
 1. Clone the Repository
 Open a terminal or command prompt.
 Clone the GitHub repository by running
-git clone https://github.com/yourusername/Memory-Puzzzle.git
+git clone https://github.com/AnnyaB/Memory-Puzzzle.git
 Navigate to the project directory:
 cd Memory-Matching-Game
 
