@@ -19,7 +19,7 @@ assert (BOARDWIDTH * BOARDHEIGHT) % 2 == 0, 'Board needs to have an even number 
 XMARGIN = int((WINDOWWIDTH - (BOARDWIDTH * (BOXSIZE + GAPSIZE))) / 2)
 YMARGIN = int((WINDOWHEIGHT - (BOARDHEIGHT * (BOXSIZE + GAPSIZE))) / 2)
 
-# Colors (R, G, B)
+# Colours (R, G, B)
 GRAY = (100, 100, 100)
 NAVYBLUE = (60, 60, 100)
 WHITE = (255, 255, 255)
